@@ -1,0 +1,35 @@
+/*base document styles & instructions*/
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Work Sans',sans-serif;
+  background-color: rgb(255, 242, 242);
+}
+h1 {
+  font-size: 2.5rem;
+}
+h1,
+h2 {
+  color: rgb(32, 64, 86);
+  font-weight: bold;
+}
+p {
+  color: rgb(74, 74, 74);
+}
+header {
+  height: 5.25rem;
+}
+
+/*cards*/
+.card {
+  height: 12.5rem;
+  width: 12.5rem;
+  background-color: rgb(32, 64, 86);
+  border: 4px solid #ffffff;
+  border-radius: 8px;
+}
+.flipped {
+
+}
