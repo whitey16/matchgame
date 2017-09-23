@@ -37,13 +37,14 @@ header {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-}
-.card h3 {
   font-size: 7rem;
   font-weight: 900;
   color: rgb(255, 255, 255);
-  display: none;
 }
+/*.card h3 {
+
+  display: none;
+}*/
 .flipped {
 
 }
