@@ -50,7 +50,7 @@ MatchGame.renderCards = function(randomValues, $game) {
   $game.empty();
   for (var i = 0; i < randomValues.length; i++) {
     var value = randomValues[i];
-    var color = colors[i-1];
+    var color = colors[value-1];
     var data = {
       value: value,
       color: color,
