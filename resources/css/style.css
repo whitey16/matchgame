@@ -25,6 +25,9 @@ p {
 header {
   height: 5.25rem;
 }
+#game {
+  width: 750px;
+}
 
 /*cards*/
 .card {
